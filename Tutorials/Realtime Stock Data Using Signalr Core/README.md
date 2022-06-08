@@ -1,1 +1,1 @@
-#Realtime Stock Data Using Signalr Core
+# Realtime Stock Data Using Signalr Core
