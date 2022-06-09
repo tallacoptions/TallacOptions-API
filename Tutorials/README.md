@@ -1,2 +1,2 @@
 # Tutorials
-Basic and simple tutorials to help you experiment our APIs.
+Find basic and simple tutorials that will help you kickstart your experience with our APIs.
