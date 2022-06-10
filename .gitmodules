@@ -1,0 +1,3 @@
+[submodule "Tutorials/Realtime Stock Data Using Signalr Core"]
+	path = Tutorials/Realtime Stock Data Using Signalr Core
+	url = https://github.com/tallacoptions/Signalr-Realtime-Stock-Data
