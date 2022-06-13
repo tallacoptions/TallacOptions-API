@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tutorials",
+    "\\Tutorials\\Realtime Stock Data Using Signalr Core"
   ],
-  "SelectedNode": "\\C:\\Users\\messo\\source\\repos\\Tallac Options\\APIs",
+  "SelectedNode": "\\Tutorials\\README.md",
   "PreviewInSolutionExplorer": false
 }
